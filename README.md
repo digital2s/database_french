@@ -7,3 +7,7 @@
 
 # Conception
 ![conception](conception.png)
+
+# Configurartion
+
+Download,extract and import the file **db_french_cities.sql** in your database
